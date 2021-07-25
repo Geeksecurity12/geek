@@ -1,0 +1,2 @@
+# geek
+My static Website
